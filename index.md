@@ -9,3 +9,8 @@ Yup! no comment.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+Okay what should i do next .. let's see:
+
+- [x] added image
+- [x] added code
+- [ ] add the task list .. Oh yeah
